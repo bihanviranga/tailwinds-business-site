@@ -31,7 +31,7 @@ function Navbar() {
           <button className='px-8 py-3'>Sign Up</button>
         </div>
 
-        <div className='md:hidden' onClick={handleMenuButtonClick}>
+        <div className='md:hidden mr-4' onClick={handleMenuButtonClick}>
           {navMenuVisible
             ? <XMarkIcon className='w-8' />
             : <Bars3Icon className='w-8' />
