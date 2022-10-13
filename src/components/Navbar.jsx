@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline';
+import { Link } from 'react-scroll';
 
 
 function Navbar() {
@@ -8,6 +9,11 @@ function Navbar() {
   const handleMenuButtonClick = () => {
     setNavMenuVisible(!navMenuVisible);
   };
+
+  const handleMenuClose = () => {
+    console.log("handleMenuClose");
+    setNavMenuVisible(false);
+  }
 
   return (
     <div className='w-screen h-[80px] z-10 bg-zinc-200 fixed drop-shadow-lg'>
@@ -18,11 +24,11 @@ function Navbar() {
           </h1>
 
           <ul className='hidden md:flex'>
-            <li>Home</li>
-            <li>About</li>
-            <li>Support</li>
-            <li>Platforms</li>
-            <li>Pricing</li>
+            <li><Link to="home" smooth={true} duration={500}>Home</Link></li>
+            <li><Link to="about" smooth={true} offset={-300} duration={500}>About</Link></li>
+            <li><Link to="support" smooth={true} offset={-100} duration={500}>Support</Link></li>
+            <li><Link to="platforms" smooth={true} offset={-200} duration={500}>Platforms</Link></li>
+            <li><Link to="pricing" smooth={true} offset={-50} duration={500}>Pricing</Link></li>
           </ul>
         </div>
 
@@ -40,11 +46,21 @@ function Navbar() {
       </div>
 
     <ul className={navMenuVisible ? 'absolute bg-zinc-200 w-full px-8' : 'hidden'}>
-      <li className='border-b-2 border-zinc-300 w-full'>Home</li>
-      <li className='border-b-2 border-zinc-300 w-full'>About</li>
-      <li className='border-b-2 border-zinc-300 w-full'>Support</li>
-      <li className='border-b-2 border-zinc-300 w-full'>Platforms</li>
-      <li className='border-b-2 border-zinc-300 w-full'>Pricing</li>
+      <li className='border-b-2 border-zinc-300 w-full'>
+        <Link onClick={handleMenuClose} to="home" smooth={true} duration={500}>Home</Link>
+      </li>
+      <li className='border-b-2 border-zinc-300 w-full'>
+        <Link onClick={handleMenuClose} to="about" smooth={true} offset={-300} duration={500}>About</Link>
+      </li>
+      <li className='border-b-2 border-zinc-300 w-full'>
+        <Link onClick={handleMenuClose} to="support" smooth={true} offset={-100} duration={500}>Support</Link>
+      </li>
+      <li className='border-b-2 border-zinc-300 w-full'>
+        <Link onClick={handleMenuClose} to="platforms" smooth={true} offset={-200} duration={500}>Platforms</Link>
+      </li>
+      <li className='border-b-2 border-zinc-300 w-full'>
+        <Link onClick={handleMenuClose} to="pricing" smooth={true} offset={-50} duration={500}>Pricing</Link>
+      </li>
       <div className='flex flex-col my-4'>
         <button className='bg-transparent text-indigo-600 px-8 py-3 mb-4'>Sign In</button>
         <button className='px-8 py-3'>Sign Up</button>
