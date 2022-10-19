@@ -6,7 +6,7 @@ function AllInOne() {
       <div className="max-w-[1240px] mx-auto px-2">
         <h2 className="text-5xl font-bold text-center">All-In-One Platform</h2>
         <p className="text-2xl py-8 text-gray-500 text-center">
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eius
+          Lorem ipsum dolor mehet iklana sor defet alkuwnthina sit, amet consectetur adipisicing elit. Eius
           repellendus nobis ratione vel perspiciatis suscipit, dignissimos ipsam
           ipsa illum reiciendis.
         </p>

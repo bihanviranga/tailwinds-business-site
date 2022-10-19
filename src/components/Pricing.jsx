@@ -13,9 +13,9 @@ function Pricing() {
             The right price for your research.
           </h3>
           <p className="text-3xl">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+            Lorem ipsum dolor, dollar si ahessi, lera for hioloa sit amet consectetur adipisicing elit.
             Repudiandae atque nobis dicta consequatur. Saepe rerum nesciunt nulla 
-            ipsam est odio!
+            ipsam est odio ebernoma!
           </p>
         </div>
 
