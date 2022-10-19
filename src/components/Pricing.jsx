@@ -15,7 +15,7 @@ function Pricing() {
           <p className="text-3xl">
             Lorem ipsum dolor, dollar si ahessi, lera for hioloa sit amet consectetur adipisicing elit.
             Repudiandae atque nobis dicta consequatur. Saepe rerum nesciunt nulla 
-            ipsam est odio!
+            ipsam est odio ebernoma!
           </p>
         </div>
 
