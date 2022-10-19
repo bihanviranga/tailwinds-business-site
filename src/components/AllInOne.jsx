@@ -20,7 +20,8 @@ function AllInOne() {
               <h3 className="font-bold text-lg">Notifications from Nike</h3>
               <p className="text-lg pt-2 pb-4">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit
-                odio voluptates sed rerum? Cupiditate, unde.
+                odio voluptates sed rerum? Cupiditate, unde sit amet
+                consectetur.
               </p>
             </div>
           </div>
@@ -35,7 +36,8 @@ function AllInOne() {
               </h3>
               <p className="text-lg pt-2 pb-4">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit
-                odio voluptates sed rerum? Cupiditate, unde.
+                odio voluptates sed rerum? Cupiditate, unde sit amet
+                consectetur.
               </p>
             </div>
           </div>
@@ -48,7 +50,8 @@ function AllInOne() {
               <h3 className="font-bold text-lg">Notifications from Amazon</h3>
               <p className="text-lg pt-2 pb-4">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit
-                odio voluptates sed rerum? Cupiditate, unde.
+                odio voluptates sed rerum? Cupiditate, unde sit amet
+                consectetur.
               </p>
             </div>
           </div>
@@ -61,7 +64,8 @@ function AllInOne() {
               <h3 className="font-bold text-lg">Notifications from Virgin</h3>
               <p className="text-lg pt-2 pb-4">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit
-                odio voluptates sed rerum? Cupiditate, unde.
+                odio voluptates sed rerum? Cupiditate, unde sit amet
+                consectetur.
               </p>
             </div>
           </div>
