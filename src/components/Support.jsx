@@ -24,7 +24,7 @@ function Support() {
           <p className="py-4 text-3xl text-slate-300">
             Lorem ipsum dolor sit amet consectetur adipisicing elit.
             Quas autem delectus illo, corporis suscipit aspernatur quidem
-            accusamus consectetur nihil saepe.
+            accusamus consectetur nihil saepe. Edited by Ayu for Viru
           </p>
         </div>
 
@@ -40,7 +40,7 @@ function Support() {
               <p className="text-gray-600 text-xl">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Nemo distinctio voluptates aut placeat animi laborum, quas doloremque.
-                Dolorum, at illo!
+                Dolorum, at illo! Edited by Ayu for Viru
               </p>
             </div>
             <div className="bg-slate-100 pl-8 py-4">
@@ -59,7 +59,7 @@ function Support() {
               <p className="text-gray-600 text-xl">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Nemo distinctio voluptates aut placeat animi laborum, quas doloremque.
-                Dolorum, at illo!
+                Dolorum, at illo! Edited by Ayu for Viru
               </p>
             </div>
             <div className="bg-slate-100 pl-8 py-4">
@@ -78,7 +78,7 @@ function Support() {
               <p className="text-gray-600 text-xl">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Nemo distinctio voluptates aut placeat animi laborum, quas doloremque.
-                Dolorum, at illo!
+                Dolorum, at illo! Edited by Ayu for Viru
               </p>
             </div>
             <div className="bg-slate-100 pl-8 py-4">

@@ -9,7 +9,8 @@ function About() {
           <p className="text-3xl py-6 text-gray-500">
             Lorem, ipsum dolor sit amet consectetur adipisicing elit.
             Accusantium odio sint architecto similique fuga gihuyhn  mkorol sequi doloribus
-            tempora incidunt quaerat a error
+            tempora incidunt quaerat a error. 
+            Edited by Ayu for Viru
           </p>
         </div>
 
