@@ -78,7 +78,8 @@ function AllInOne() {
               <h3 className="font-bold text-lg">Notifications from Monocle</h3>
               <p className="text-lg pt-2 pb-4">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit
-                odio voluptates sed rerum? Cupiditate, unde.
+                odio voluptates sed rerum? Cupiditate, unde sit amet
+                consectetur.
               </p>
             </div>
           </div>
@@ -91,7 +92,8 @@ function AllInOne() {
               <h3 className="font-bold text-lg">Notifications from Apple</h3>
               <p className="text-lg pt-2 pb-4">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit
-                odio voluptates sed rerum? Cupiditate, unde.
+                odio voluptates sed rerum? Cupiditate, unde sit amet
+                consectetur.
               </p>
             </div>
           </div>
@@ -104,7 +106,8 @@ function AllInOne() {
               <h3 className="font-bold text-lg">Notifications from Cococola</h3>
               <p className="text-lg pt-2 pb-4">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit
-                odio voluptates sed rerum? Cupiditate, unde.
+                odio voluptates sed rerum? Cupiditate, unde sit amet
+                consectetur.
               </p>
             </div>
           </div>
@@ -119,7 +122,8 @@ function AllInOne() {
               </h3>
               <p className="text-lg pt-2 pb-4">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit
-                odio voluptates sed rerum? Cupiditate, unde.
+                odio voluptates sed rerum? Cupiditate, unde sit amet
+                consectetur.
               </p>
             </div>
           </div>
