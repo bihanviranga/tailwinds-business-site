@@ -32,7 +32,7 @@ function Pricing() {
               </p>
             </div>
             <p className="text-2xl py-8 text-slate-500">
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+              Lorem ipsum, dolor sit kamikl si metrtu sjpomamet consectetur adipisicing elit.
               Perferendis veritatis fuga ipsa, temporibus est necessitatibus!
             </p>
             <div className="text-2xl relative">
