@@ -8,7 +8,7 @@ function AllInOne() {
         <p className="text-2xl py-8 text-gray-500 text-center">
           Lorem ipsum dolor mehet iklana sor defet alkuwnthina sit, amet consectetur adipisicing elit. Eius
           repellendus nobis ratione vel perspiciatis suscipit, dignissimos ipsam
-          ipsa illum reiciendis.
+          ipsa illum reiciendis. Edited by Ayu for Viru
         </p>
 
         <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4 pt-4">
@@ -21,7 +21,7 @@ function AllInOne() {
               <p className="text-lg pt-2 pb-4">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit
                 odio voluptates sed rerum? Cupiditate, unde sit amet
-                consectetur.
+                consectetur. Edited by Ayu for Viru
               </p>
             </div>
           </div>
@@ -37,7 +37,7 @@ function AllInOne() {
               <p className="text-lg pt-2 pb-4">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit
                 odio voluptates sed rerum? Cupiditate, unde sit amet
-                consectetur.
+                consectetur. Edited by Ayu for Viru
               </p>
             </div>
           </div>
@@ -51,7 +51,7 @@ function AllInOne() {
               <p className="text-lg pt-2 pb-4">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit
                 odio voluptates sed rerum? Cupiditate, unde sit amet
-                consectetur.
+                consectetur. Edited by Ayu for Viru
               </p>
             </div>
           </div>
@@ -65,7 +65,7 @@ function AllInOne() {
               <p className="text-lg pt-2 pb-4">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit
                 odio voluptates sed rerum? Cupiditate, unde sit amet
-                consectetur.
+                consectetur. Edited by Ayu for Viru
               </p>
             </div>
           </div>
@@ -79,7 +79,7 @@ function AllInOne() {
               <p className="text-lg pt-2 pb-4">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit
                 odio voluptates sed rerum? Cupiditate, unde sit amet
-                consectetur.
+                consectetur. Edited by Ayu for Viru
               </p>
             </div>
           </div>
@@ -93,7 +93,7 @@ function AllInOne() {
               <p className="text-lg pt-2 pb-4">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit
                 odio voluptates sed rerum? Cupiditate, unde sit amet
-                consectetur.
+                consectetur. Edited by Ayu for Viru
               </p>
             </div>
           </div>
@@ -107,7 +107,7 @@ function AllInOne() {
               <p className="text-lg pt-2 pb-4">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit
                 odio voluptates sed rerum? Cupiditate, unde sit amet
-                consectetur.
+                consectetur. Edited by Ayu for Viru
               </p>
             </div>
           </div>
@@ -123,7 +123,7 @@ function AllInOne() {
               <p className="text-lg pt-2 pb-4">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit
                 odio voluptates sed rerum? Cupiditate, unde sit amet
-                consectetur.
+                consectetur. Edited by Ayu for Viru
               </p>
             </div>
           </div>

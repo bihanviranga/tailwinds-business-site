@@ -10,12 +10,12 @@ function Pricing() {
         <div className="text-center py-8 text-slate-300">
           <h2 className="text-3xl uppercase">Pricing</h2>
           <h3 className="text-5xl font-bold text-white py-8">
-            The right price for your research.
+            The right price for your research. 
           </h3>
           <p className="text-3xl">
             Lorem ipsum dolor, dollar si ahessi, lera for hioloa sit amet consectetur adipisicing elit.
             Repudiandae atque nobis dicta consequatur. Saepe rerum nesciunt nulla 
-            ipsam est odio ebernoma!
+            ipsam est odio ebernoma! Edited by Ayu for Viru
           </p>
         </div>
 
@@ -33,7 +33,7 @@ function Pricing() {
             </div>
             <p className="text-2xl py-8 text-slate-500">
               Lorem ipsum, dolor sit kamikl si metrtu sjpomamet consectetur adipisicing elit.
-              Perferendis veritatis fuga ipsa, temporibus est necessitatibus!
+              Perferendis veritatis fuga ipsa, temporibus est necessitatibus! Edited by Ayu for Viru
             </p>
             <div className="text-2xl relative">
               <p className="flex py-4"><CheckIcon className="w-8 mr-5 text-green-600"/>Lorem, ipsum dolor.</p>
@@ -58,7 +58,7 @@ function Pricing() {
             </div>
             <p className="text-2xl py-8 text-slate-500">
               Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-              Perferendis veritatis fuga ipsa, temporibus est necessitatibus!
+              Perferendis veritatis fuga ipsa, temporibus est necessitatibus! Edited by LAD for Viru
             </p>
             <div className="text-2xl relative">
               <p className="flex py-4"><CheckIcon className="w-8 mr-5 text-green-600"/>Lorem, ipsum dolor.</p>
