@@ -8,7 +8,7 @@ function About() {
           </h2>
           <p className="text-3xl py-6 text-gray-500">
             Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-            Accusantium odio sint architecto similique fuga sequi doloribus
+            Accusantium odio sint architecto similique fuga gihuyhn  mkorol sequi doloribus
             tempora incidunt quaerat a error
           </p>
         </div>
